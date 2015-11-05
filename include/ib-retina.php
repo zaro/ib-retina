@@ -2,11 +2,6 @@
 
 class IB_Retina {
 	/**
-	 * @var bool
-	 */
-	//public static $is_retina;
-
-	/**
 	 * Initialize retina functionality.
 	 */
 	public static function init() {
@@ -120,17 +115,4 @@ class IB_Retina {
 		
 		return $output;
 	}
-
-	/**
-	 * Check devicePixelRatio cookie to determine if it has a retina display.
-	 *
-	 * @return bool
-	 */
-	/*public static function is_retina() {
-		if ( null === self::$is_retina ) {
-			self::$is_retina = ( isset( $_COOKIE['devicePixelRatio'] ) && is_numeric( $_COOKIE['devicePixelRatio'] ) && $_COOKIE['devicePixelRatio'] > 1 );
-		}
-
-		return self::$is_retina;
-	}*/
 }

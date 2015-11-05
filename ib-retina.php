@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: IB Retina
+Plugin Name: ib-retina
 Description: Creates 2x images for image uploads.
-Author: educatorteam
 Version: 1.1
+Author: educatorteam
 Author URI: http://educatorplugin.com
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
