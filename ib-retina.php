@@ -2,7 +2,7 @@
 /*
 Plugin Name: ib-retina
 Description: Creates 2x images for image uploads.
-Version: 1.1
+Version: 1.1.0
 Author: educatorteam
 Author URI: http://educatorplugin.com
 License: GPLv2 or later
